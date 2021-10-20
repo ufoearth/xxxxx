@@ -1,5 +1,5 @@
 {
-    "name": "CUSTOM",
+    "name": "custom",
     "version": "0.0.1",
     "description": "這是專為測試用的micro:bit積木",
     "license": "MIT",
@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "custom.ts"
+        "custom.ts",
     ],
     "public": true
 }
